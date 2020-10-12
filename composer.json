@@ -1,0 +1,20 @@
+{
+    "name": "workerman/mqtt-server",
+    "type": "library",
+    "keywords": ["workerman", "mqtt"],
+    "homepage": "http://www.workerman.net",
+    "license": "MIT",
+    "require": {
+        "workerman/mqtt": ">=1.0"
+    },
+    "authors": [{
+        "name": "dongbelate",
+        "email": "dongbelate@hotmail.com",
+        "role": "Developer"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Workerman\\MqttServer\\": "./src"
+        }
+    }
+}
