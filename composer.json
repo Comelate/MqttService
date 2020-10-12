@@ -1,5 +1,5 @@
 {
-    "name": "Mqtt/mqtt-service",
+    "name": "mqtt/mqtt-service",
     "type": "library",
     "keywords": ["workerman","mqtt"],
     "homepage": "http://www.workerman.net",
