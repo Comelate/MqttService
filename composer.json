@@ -1,7 +1,7 @@
 {
-    "name": "workerman/mqtt-server",
+    "name": "workerman/mqtt-service",
     "type": "library",
-    "keywords": ["workerman", "mqtt"],
+    "keywords": ["mqtt service"],
     "homepage": "http://www.workerman.net",
     "license": "MIT",
     "require": {
@@ -14,7 +14,7 @@
     }],
     "autoload": {
         "psr-4": {
-            "Workerman\\MqttServer\\": "./src"
+            "Workerman\\MqttService\\": "./src"
         }
     }
 }
